@@ -11,6 +11,9 @@ Check out and play the live version of the game here:
 
 🔗 https://niwani.github.io/X-O-Game/
 
+# Demo Video
+https://user-images.githubusercontent.com/Niwani/demo_video.mov
+
 
 # 🧠 Gameplay Overview
 
